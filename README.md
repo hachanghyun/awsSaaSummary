@@ -1,9 +1,9 @@
 # awsSaaSummary
 
-#### IAM = Identity and Access Management, Global service
-#### 인바운드 규칙은 외부에서 Ec2 인스턴스로 연결할 수 있게 해주는 규칙
-#### SSH는 터미널이나 명령줄을 이용해서 원격 머신이나 서버를 제어할 수 있게 해줌
-#### EC2 인스턴스 connect ssh와 같은 방식으로 웹에서 빠르게 연결가능한 connect
+IAM = Identity and Access Management, Global service
+인바운드 규칙은 외부에서 Ec2 인스턴스로 연결할 수 있게 해주는 규칙
+SSH는 터미널이나 명령줄을 이용해서 원격 머신이나 서버를 제어할 수 있게 해줌
+EC2 인스턴스 connect ssh와 같은 방식으로 웹에서 빠르게 연결가능한 connect
 
 ##### Q.EC2 인스턴스에 고성능 컴퓨팅(HPC) 애플리케이션을 배포하려 합니다. 다음 중 어떤 EC2 인스턴스 유형을 선택해야 할까요?
     A.컴퓨팅 최적화 EC2 인스턴스는 고성능 프로세서(예: 배치 처리, 미디어 트랜스코딩, 고성능 컴퓨팅, 과학적 모델링 및 머신 러닝, 전용 게이밍 서버 등)가 필요한 집중 컴퓨팅 워크로드에 적합합니다.
