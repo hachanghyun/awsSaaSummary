@@ -39,23 +39,17 @@
 
 Access
 IAM ( Identity and Access Management ) ⭐️⭐️⭐️⭐️⭐️
-📌
-인증 및 권한 관리 서비스
+    📌인증 및 권한 관리 서비스
 Roles
-📌
-사용자, 서비스에 대한 액세스 권한 관리 Policy의 집합
+    📌사용자, 서비스에 대한 액세스 권한 관리 Policy의 집합
 Policy
-📌
-사용자, 서비스에 대한 권한 부여
+    📌사용자, 서비스에 대한 권한 부여
 Group
-📌
-여러 사람에게 동일한 액세스 권한 부여 및 관리
+    📌여러 사람에게 동일한 액세스 권한 부여 및 관리
 User
-📌
-말 그대로 AWS 계정 하나하나
+    📌말 그대로 AWS 계정 하나하나
 Cognito 
-📌
-사용자 인증 및 권한 부여를 위한 서비스
+    📌사용자 인증 및 권한 부여를 위한 서비스
 웹 및 모바일 애플리케이션에서 사용자 인증과 권한 부여를 쉽게 구현 가능
 완전 관리형 서비스
 사용자 계정 관리, 인증, 권한 부여 및 동기화를 위한 API와 SDK를 제공
@@ -63,8 +57,7 @@ SAML 및 OAuth와 같은 표준 기반 프로토콜 지원
 MFA, 사용자별 패스워드 정책, 비밀번호 해시와 같은 보안 기능 제공
 Amazon Cognito User Pools 및 Amazon Cognito Identity Pools 두 가지 유형 제공
 Directory Service
-📌
-AWS에서 제공하는 관리형 디렉터리 서비스
+    📌AWS에서 제공하는 관리형 디렉터리 서비스
 온프레미스와 AWS 클라우드 리소스간의 하이브리드 환경에서 Microsoft Active Directory를 호스팅
 관리형 AD ( Active Directory )
 AWS에서 AD 관리와 유지보수를 대신해줌
