@@ -1,17 +1,23 @@
-# awsSaaSummary
+# aws saa summary
 
-### 1.Access
-### 2.Compute
-### 3.High Availability & Scalability
-### 4.Network
-### 5.Serverless
-### 6.Data
-### 7.Analytics
-### 8.Machine Learning
-### 9.Decoupling
-### 10.Container
-### 11.Monitoring
-### 12.Security & Encryption
-### 13.Other Services
-### 14.Keywords 
+### View aws saa summary
+You can check the summary in AWS SAA.
+You can check the contents of the service by clicking the service button of the index.
+
+### Search function
+You can check the content by searching for the AWS SAA service.
+
+
+### AI Search
+You can ask AI about the content of the service and receive an answer.
+
+### About
+You can check the data source and AI information of the app.
+
+### Question
+If you have any questions about our app, please email us at the address below with detailed information.
+
+Email: hacwx1@gmail.com
+
+Thank you.
 
