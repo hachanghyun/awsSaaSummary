@@ -12,7 +12,7 @@ You can ask AI questions about service content and receive answers.
 ### About
 You can check the app version and inquiry email.
 
-Question
+### Question
 If you have any questions about our app, please email us at the address below with detailed information.
 
 Email: hacwx1@gmail.com
