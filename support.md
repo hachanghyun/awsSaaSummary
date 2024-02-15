@@ -1,22 +1,21 @@
 # Aws saa summary
 
-### View aws saa summary
-You can check the summary in AWS SAA.
-You can check the contents of the service by clicking the service button of the index.
+### Aws SAA Summary View
+You can find a summary at AWS SAA. If you click the service button in the index, you can check the contents of the service from AI.
 
 ### Search function
-You can check the content by searching for the AWS SAA service.
+If you search for AWS SAA service, you can check the information with AI.
 
-### AI Search
-You can ask AI about the content of the service and receive an answer.
+### Test
+You can ask AI questions about service content and receive answers.
 
 ### About
-You can check the data source and AI information of the app.
+You can check the app version and inquiry email.
 
-### Question
+Question
 If you have any questions about our app, please email us at the address below with detailed information.
 
 Email: hacwx1@gmail.com
 
-Thank you.
+Thank you:)
 
