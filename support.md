@@ -1,4 +1,4 @@
-# Aws saa summary
+# Aws SAA summary
 
 ### Aws SAA Summary View
 You can find a summary at AWS SAA. If you click the service button in the index, you can check the contents of the service from AI.
