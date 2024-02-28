@@ -10,7 +10,7 @@ If you search for AWS SAA service, you can check the information with AI.
 You can ask AI questions about service content and receive answers.
 
 ### About
-You can check the app version and inquiry email.
+You can check the app version and inquiry email. 
 
 ### Question
 If you have any questions about our app, please email us at the address below with detailed information.
