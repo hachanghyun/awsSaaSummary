@@ -28,3 +28,7 @@ Thank you:)
 ![unnamed (6)](https://github.com/hachanghyun/awsSaaSummary/assets/33058284/908cf903-bfda-4ecf-afdb-2ee4eb4d0ac9)
 ![unnamed (7)](https://github.com/hachanghyun/awsSaaSummary/assets/33058284/85b8a9a4-69d0-4af9-b27a-b2ea72790a94)
  
+<img width="1065" alt="1" src="https://github.com/hachanghyun/awsSaaSummary/assets/33058284/702fab34-ffa2-42af-974d-35040de6fc0d">
+
+<img width="1302" alt="2" src="https://github.com/hachanghyun/awsSaaSummary/assets/33058284/655f5da0-1dac-405f-9135-ce66cf946a03">
+
