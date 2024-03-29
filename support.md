@@ -39,6 +39,7 @@ Thank you:)
 #### AWS ElasticBeanstalk (Elastic Load Balancer)
 #### Amazon EC2 
 #### Amazon RDS
+#### Amazon Route53
 #### Amazon Cerficate Manager
 
     
