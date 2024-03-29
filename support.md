@@ -33,11 +33,11 @@ Thank you:)
 <img width="1302" alt="2" src="https://github.com/hachanghyun/awsSaaSummary/assets/33058284/655f5da0-1dac-405f-9135-ce66cf946a03">
 
 ### 기술스택
-#### React NAtive
-#### SpringBoot (Spring Data JPA)
-#### chat GPT
-#### AWS ElasticBeanstalk (Elastic Load Balancer)
-#### Amazon EC2 
-#### Amazon RDS
-#### Amazon Cerficate Manager
+   #### React NAtive
+   #### SpringBoot (Spring Data JPA)
+   #### chat GPT
+   #### AWS ElasticBeanstalk (Elastic Load Balancer)
+   #### Amazon EC2 
+   #### Amazon RDS
+   #### Amazon Cerficate Manager
     
