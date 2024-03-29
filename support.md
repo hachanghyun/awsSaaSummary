@@ -33,11 +33,14 @@ Thank you:)
 <img width="1302" alt="2" src="https://github.com/hachanghyun/awsSaaSummary/assets/33058284/655f5da0-1dac-405f-9135-ce66cf946a03">
 
 ### 기술스택
-   #### React Native
-   #### SpringBoot (Spring Data JPA)
-   #### chat GPT
-   #### AWS ElasticBeanstalk (Elastic Load Balancer)
-   #### Amazon EC2 
-   #### Amazon RDS
-   #### Amazon Cerficate Manager
+#### React Native
+#### SpringBoot (Spring Data JPA)
+#### chat GPT
+#### AWS ElasticBeanstalk (Elastic Load Balancer)
+#### Amazon EC2 
+#### Amazon RDS
+#### Amazon Cerficate Manager
     
+### MAC 환경변수 설정
+#### export "원하는 이름"="Users/본인계정명/원하는 경로를 이어서 작성"
+#### https://velog.io/@corner3499/Mac-M1-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98PATH%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-ZSH-Ver
