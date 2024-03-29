@@ -40,6 +40,7 @@ Thank you:)
 #### Amazon EC2 
 #### Amazon RDS
 #### Amazon Cerficate Manager
+
     
 ### MAC 환경변수 설정
 #### export "원하는 이름"="Users/본인계정명/원하는 경로를 이어서 작성"
