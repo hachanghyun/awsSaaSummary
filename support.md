@@ -30,7 +30,8 @@ Thank you:)
  
 <img width="1065" alt="1" src="https://github.com/hachanghyun/awsSaaSummary/assets/33058284/702fab34-ffa2-42af-974d-35040de6fc0d">
 
-<img width="1302" alt="2" src="https://github.com/hachanghyun/awsSaaSummary/assets/33058284/655f5da0-1dac-405f-9135-ce66cf946a03">
+<img width="1331" alt="123" src="https://github.com/hachanghyun/awsSaaSummary/assets/33058284/fd7d652d-cf51-4651-bb7e-f0a96aa666f4">
+
 
 ### 기술스택
 #### React Native
