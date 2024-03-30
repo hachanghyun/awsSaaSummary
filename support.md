@@ -47,6 +47,21 @@ Thank you:)
 
 ## 5. 참조사이트
 
+##### [Spring Boot + Chat GPT] Open AI API 적용기
+##### https://joecp17.tistory.com/72
+
+##### openai chatgpt api Community libraries
+##### https://platform.openai.com/docs/libraries/community-libraries
+
+##### [Spring chatGPT] 스프링으로 openAI api 클라이언트 사용하기
+##### ttps://woolfiekim.github.io/spring/chatgptstart/
+
+##### [Retrofit] Retrofit을 이용해서 다양한 방식으로 API 요청을 해보자
+##### https://bamdule.tistory.com/266
+
+##### [React Native] 인스타그램 UI 만들기 #1
+##### https://velog.io/@anpigon/React-Native-UI-%EB%A7%8C%EB%93%A4%EA%B8%B0-1
+
 ##### Mac-M1-환경변수PATH설정하기-ZSH-Ver
 ##### https://velog.io/@corner3499/Mac-M1-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98PATH%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-ZSH-Ver
 
@@ -131,4 +146,3 @@ Thank you:)
 ##### [AWS-실습] - EC2 생성
 ##### https://choideu.tistory.com/480?category=951822
 
-##### 
