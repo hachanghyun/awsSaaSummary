@@ -54,7 +54,7 @@ Thank you:)
 ##### https://platform.openai.com/docs/libraries/community-libraries
 
 ##### [Spring chatGPT] 스프링으로 openAI api 클라이언트 사용하기
-##### ttps://woolfiekim.github.io/spring/chatgptstart/
+##### https://woolfiekim.github.io/spring/chatgptstart/
 
 ##### [Retrofit] Retrofit을 이용해서 다양한 방식으로 API 요청을 해보자
 ##### https://bamdule.tistory.com/266
