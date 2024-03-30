@@ -146,3 +146,12 @@ Thank you:)
 ##### [AWS-실습] - EC2 생성
 ##### https://choideu.tistory.com/480?category=951822
 
+##### Android 개인정보 처리방침 만들기
+##### https://soir1984.tistory.com/3#google_vignette
+
+##### websitepolicies
+##### https://app.websitepolicies.com/users/login?r=policies%2Fwizard%2Fprivacy-policy%2Ffdp2nao3
+
+##### 앱 배포 스크린샷 
+##### www.figma.com
+
