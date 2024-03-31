@@ -149,13 +149,11 @@ Thank you:)
 ##### Android 개인정보 처리방침 만들기
 ##### https://soir1984.tistory.com/3#google_vignette
 
-##### 도커에 젠킨스 세팅
-##### docker run -itd --name jenkins -p 8085:8080 jenkins/jenkins
-
-
 ##### websitepolicies
 ##### https://app.websitepolicies.com/users/login?r=policies%2Fwizard%2Fprivacy-policy%2Ffdp2nao3
 
 ##### 앱 배포 스크린샷 
 ##### www.figma.com
 
+##### 도커에 젠킨스 세팅
+##### docker run -itd --name jenkins -p 8085:8080 jenkins/jenkins
