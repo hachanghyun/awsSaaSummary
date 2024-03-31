@@ -157,3 +157,20 @@ Thank you:)
 
 ##### 도커에 젠킨스 세팅
 ##### docker run -itd --name jenkins -p 8085:8080 jenkins/jenkins
+
+Docker로 설치한 Jenkins의 초기 관리자 비밀번호를 찾으려면 Docker 컨테이너의 로그에서 해당 정보를 가져올 수 있습니다. 이를 위해 다음 단계를 따르세요:
+
+컨테이너의 로그 확인: Jenkins 컨테이너의 로그를 확인하려면, 먼저 컨테이너의 이름이나 ID를 알아야 합니다. 이는 docker ps 명령어를 통해 확인할 수 있습니다. 그 후, docker logs [컨테이너 이름 또는 ID] 명령어를 사용하여 로그를 확인합니다. 초기 관리자 비밀번호는 로그의 어딘가에 기록되어 있을 것입니다.
+
+컨테이너 내의 파일 접근: 컨테이너 내부의 /var/jenkins_home/secrets/initialAdminPassword 파일에서 직접 비밀번호를 확인할 수도 있습니다. 이를 위해 docker exec 명령어를 사용하여 컨테이너 내부에 접속한 후, 해당 파일의 내용을 확인합니다.
+
+다음은 이 과정을 수행하는 명령어 예시입니다:
+
+bash
+Copy code
+# Jenkins 컨테이너의 로그 확인
+docker logs jenkins
+
+# 컨테이너 내부로 접속하여 초기 관리자 비밀번호 파일의 내용 확인
+docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword
+여기서 jenkins는 실행한 Jenkins 컨테이너의 이름입니다. 로그에서 또는 cat 명령어를 통해 출력된 비밀번호를 Jenkins의 초기 설정 화면에서 사용하면 됩니다.
