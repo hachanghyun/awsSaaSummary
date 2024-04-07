@@ -7,7 +7,7 @@ You can find a summary at AWS SAA. If you click the service button in the index,
 If you search for AWS SAA service, You can check the information with AI. 
  
 ### Test
-You can ask AI questions about service content and receive answers.
+You can ask AI questions about service content and receive answers. 
 
 ### About
 You can check the app version and inquiry email. 
