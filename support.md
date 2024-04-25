@@ -15,7 +15,7 @@ You can check the app version and inquiry email.
 ### Question
 If you have any questions about our app, Please email us at the address below with detailed information.
 
-Email: hacwx1@gmail.com
+Email: hacwx1@gmail.com 
  
 Thank you:)
 
