@@ -47,7 +47,7 @@ Thank you:)
 
 ## 5. 참조사이트
 
-##### [Spring Boot + Chat GPT] Open AI API 적용기
+##### [Spring Boot + Chat GPT] Open AI API 적용기 
 ##### https://joecp17.tistory.com/72
 
 ##### openai chatgpt api Community libraries
