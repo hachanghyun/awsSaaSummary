@@ -1,2 +1,3 @@
-## JAVA Summary URL
-  https://github.com/hachanghyun/SpringJavaStudy/blob/master/JAVA.md
+## AwsSaaSum support URL
+  https://github.com/hachanghyun/awsSaaSummary/blob/main/support.md
+  
